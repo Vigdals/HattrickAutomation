@@ -1,6 +1,6 @@
 {
-  "name": "StateMachineTemplate_Windows",
-  "description": "Template for making small automations",
+  "name": "Hattrick Automation",
+  "description": "Hattrick auto magic",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.2]",
